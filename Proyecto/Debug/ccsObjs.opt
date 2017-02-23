@@ -1,0 +1,1 @@
+"./hal_lcd.obj" "./libreria.obj" "./main.obj" "../lnk_msp430f5438a.cmd" -l"libc.a" -l"libmath.a" 
